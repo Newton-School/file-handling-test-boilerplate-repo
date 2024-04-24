@@ -1,9 +1,6 @@
-package FileHandling;
+package com.newtonchool.question;
 
-import java.io.InputStream;
-import java.util.Scanner;
-
-public class FileReaderProject {
+public class Application {
     public static void main(String[] args) {
         readFromFile("dummy.txt");
     }
