@@ -16,8 +16,8 @@ target/
 .vscode/
 
 # Ignore OS-specific files
-.DS_Store  # macOS
-Thumbs.db  # Windows
+.DS_Store
+Thumbs.db
 
 # Ignore build artifacts
 *.jar
